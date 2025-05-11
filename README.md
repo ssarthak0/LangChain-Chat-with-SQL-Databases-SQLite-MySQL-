@@ -19,8 +19,8 @@ This Streamlit application enables users to interact with SQL databases using na
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ssarthak0/LangChain-Chat-with-SQL-Databases-SQLite-MySQL-
+cd LangChain-Chat-with-SQL-Databases-SQLite-MySQL-
 ```
 
 ### 2. Create and Activate a Virtual Environment
